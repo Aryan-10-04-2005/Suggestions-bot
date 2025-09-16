@@ -8,7 +8,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    
     font-family: Oxygen, sans-serif;
 }
 
@@ -70,7 +70,7 @@ button {
     }
 
     body {
-        font-size: 14px; /* smaller text for small screens */
+        font-size: 144px; /* smaller text for small screens */
     }
 }
 
